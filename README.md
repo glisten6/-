@@ -13,7 +13,7 @@
 
 * `main.py`：入口文件
 * `models.py`：各模块定义
-* `config.ini`&nbsp;&nbsp;：配置文件
+* `config.ini`&nbsp;&nbsp;：配置文件。
 
 <br/>
 
